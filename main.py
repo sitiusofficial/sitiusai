@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Set up page layout
-st.set_page_config(page_title="Chatbot App", page_icon=":robot_face:", layout="wide")
+st.set_page_config(page_title="sitiusAI", page_icon=":robot_face:", layout="wide")
 
 # Create list of available AI models
 AI_MODELS = {
